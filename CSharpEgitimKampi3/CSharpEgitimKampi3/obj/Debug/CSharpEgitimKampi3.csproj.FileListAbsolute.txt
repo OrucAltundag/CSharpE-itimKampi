@@ -1,0 +1,7 @@
+C:\Users\dadil\source\repos\CSharpEgitimKampi3\CSharpEgitimKampi3\bin\Debug\CSharpEgitimKampi3.exe.config
+C:\Users\dadil\source\repos\CSharpEgitimKampi3\CSharpEgitimKampi3\bin\Debug\CSharpEgitimKampi3.exe
+C:\Users\dadil\source\repos\CSharpEgitimKampi3\CSharpEgitimKampi3\bin\Debug\CSharpEgitimKampi3.pdb
+C:\Users\dadil\source\repos\CSharpEgitimKampi3\CSharpEgitimKampi3\obj\Debug\CSharpEgitimKampi3.csproj.AssemblyReference.cache
+C:\Users\dadil\source\repos\CSharpEgitimKampi3\CSharpEgitimKampi3\obj\Debug\CSharpEgitimKampi3.csproj.CoreCompileInputs.cache
+C:\Users\dadil\source\repos\CSharpEgitimKampi3\CSharpEgitimKampi3\obj\Debug\CSharpEgitimKampi3.exe
+C:\Users\dadil\source\repos\CSharpEgitimKampi3\CSharpEgitimKampi3\obj\Debug\CSharpEgitimKampi3.pdb
